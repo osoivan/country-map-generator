@@ -1,0 +1,13 @@
+# Core app dependencies
+shiny
+shinywidgets
+geopandas
+matplotlib
+cartopy
+matplotlib-scalebar
+scipy
+pykdtree
+geopy
+
+# Deployment tool
+rsconnect-python
