@@ -21,7 +21,7 @@
 
 Visit the live app hosted on ShinyApps.io:
 
-👉 [https://country-map-generator.shinyapps.io/app](https://country-map-generator.shinyapps.io/app)
+👉 [https://cesarivanalvarez.shinyapps.io/country-map/](https://cesarivanalvarez.shinyapps.io/country-map/)
 
 ## 📷 Screenshots
 
