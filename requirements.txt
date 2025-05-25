@@ -1,0 +1,21 @@
+shiny==1.4.0
+shinywidgets==0.5.2
+
+# Visualización y mapas
+matplotlib==3.8.4
+matplotlib-scalebar==0.9.0
+cartopy==0.24.1
+folium==0.15.1
+
+# Geodatos
+geopandas==1.0.1
+shapely==2.0.3
+pyproj==3.7.1
+fiona==1.9.5
+pyogrio==0.11.0
+
+# Utilidades
+geopy==2.4.1
+pandas==2.2.2
+numpy==1.26.4
+scipy
